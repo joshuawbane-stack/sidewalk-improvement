@@ -1,3 +1,4 @@
+🚧 Status: MVP Development (v0.0.1)
 # Sidewalk Improvement
 
 > Community-powered infrastructure reporting.
